@@ -27,6 +27,7 @@ wget http://www.nlpr.ia.ac.cn/databases/download/feature_data/HWDB1.1tst_gnt.zip
               #url为远程代码库的链接
 
 二、配置
+
        1、生成ssh密钥对
 
               ssh-keygen -t rsa -C "xxx@xxx.com"
