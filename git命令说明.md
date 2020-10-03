@@ -31,13 +31,9 @@ wget http://www.nlpr.ia.ac.cn/databases/download/feature_data/HWDB1.1tst_gnt.zip
        1、生成ssh密钥对
 
               ssh-keygen -t rsa -C "xxx@xxx.com"
-
               xxx@xxx.com为邮箱
-
               使用命令查看公钥：
-
               cat .ssh/id_rsa.pub
-
               然后登陆github，把公钥添加到https://github.com/settings/ssh/new页面，Title随便起，方
               便自己辨识，Key填写获取到的公钥。
               
