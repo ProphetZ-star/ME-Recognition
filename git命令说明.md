@@ -1,12 +1,14 @@
 # 常用的git命令汇总
 
-# 首先安装git，查看版本
+## 首先安装git，查看版本
 
+```
 sudo apt-get update
 sudo apt-get install git
 git --version
+```
 
-一、新建代码库
+### 一、新建代码库
 
 1、在当前目录新建git代码库：
 
