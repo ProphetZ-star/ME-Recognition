@@ -58,4 +58,4 @@ git commit -m "信息"
 ```
 git commit -a -m "Changed some files"
 ```
-3、
+3、退送到github
